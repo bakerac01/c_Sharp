@@ -1,0 +1,10 @@
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\obj\Debug\netcoreapp2.1\Number Swap 2 Var.csproj.CoreCompileInputs.cache
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\obj\Debug\netcoreapp2.1\Number Swap 2 Var.AssemblyInfoInputs.cache
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\obj\Debug\netcoreapp2.1\Number Swap 2 Var.AssemblyInfo.cs
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\bin\Debug\netcoreapp2.1\Number Swap 2 Var.deps.json
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\bin\Debug\netcoreapp2.1\Number Swap 2 Var.runtimeconfig.json
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\bin\Debug\netcoreapp2.1\Number Swap 2 Var.runtimeconfig.dev.json
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\bin\Debug\netcoreapp2.1\Number Swap 2 Var.dll
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\bin\Debug\netcoreapp2.1\Number Swap 2 Var.pdb
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\obj\Debug\netcoreapp2.1\Number Swap 2 Var.dll
+C:\Users\baker\source\repos\Number Swap 2 Var\Number Swap 2 Var\obj\Debug\netcoreapp2.1\Number Swap 2 Var.pdb
