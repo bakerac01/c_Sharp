@@ -1,0 +1,10 @@
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\bin\Debug\netcoreapp2.1\print Number Triangle.deps.json
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\bin\Debug\netcoreapp2.1\print Number Triangle.runtimeconfig.json
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\bin\Debug\netcoreapp2.1\print Number Triangle.runtimeconfig.dev.json
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\bin\Debug\netcoreapp2.1\print Number Triangle.dll
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\bin\Debug\netcoreapp2.1\print Number Triangle.pdb
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\obj\Debug\netcoreapp2.1\print Number Triangle.csproj.CoreCompileInputs.cache
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\obj\Debug\netcoreapp2.1\print Number Triangle.AssemblyInfoInputs.cache
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\obj\Debug\netcoreapp2.1\print Number Triangle.AssemblyInfo.cs
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\obj\Debug\netcoreapp2.1\print Number Triangle.dll
+C:\Users\baker\source\repos\print Number Triangle\print Number Triangle\obj\Debug\netcoreapp2.1\print Number Triangle.pdb
